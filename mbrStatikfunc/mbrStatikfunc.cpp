@@ -13,3 +13,4 @@ public:
 	void printA11();
 
 	static void setNim(int pNim) { nim = pNim; /*Definisi Function*/ }
+	static int getNim() { return nim; /*Definisi Function*/ }
