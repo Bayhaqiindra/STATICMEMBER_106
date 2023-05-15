@@ -12,3 +12,4 @@ public:
 	void ptintA11();
 	mahasiswa(string pnama) :nama(pnama) { setID(); }
 };
+
